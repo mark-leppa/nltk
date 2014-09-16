@@ -80,3 +80,4 @@ natural language processing.  NLTK requires Python 2.6, 2.7, or 3.2+.""",
     packages = find_packages(),
     zip_safe=False, # since normal files will be present too?
     )
+
